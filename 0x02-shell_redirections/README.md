@@ -3,3 +3,4 @@
 3-twofiles : display two files
 4-lastlines : display last 10 lines
 5-firstlines:
+6-third_line : display third ligne
