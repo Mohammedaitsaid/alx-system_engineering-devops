@@ -1,9 +1,0 @@
-#!/bin/bash
-
-# Get the comment as an argument
-comment=$1
-
-# Add all changes to the git index with the provided comment
-git add . 
-git commit -m "$comment"
-git push
