@@ -5,3 +5,4 @@
 5-firstlines:
 6-third_line : display third ligne
 7-file : create strong file
+8-cwd_state : write result of ls -la
