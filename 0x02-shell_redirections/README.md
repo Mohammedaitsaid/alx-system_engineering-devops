@@ -4,3 +4,4 @@
 4-lastlines : display last 10 lines
 5-firstlines:
 6-third_line : display third ligne
+7-file : create strong file
